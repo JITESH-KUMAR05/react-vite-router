@@ -1,0 +1,13 @@
+echo "# react-vite-router" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JITESH-KUMAR05/react-vite-router.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/JITESH-KUMAR05/react-vite-router.git
+git branch -M main
+git push -u origin main
